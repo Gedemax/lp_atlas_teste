@@ -17,7 +17,7 @@ export function SocialProof() {
         {/* Social Proof Image */}
         <div className="flex justify-center mb-12">
           <img 
-            src="/Prova social 1.png" 
+            src="/prova_social1.png" 
             alt="Prova social do Atlas-AI" 
             className="max-w-full sm:max-w-2xl lg:max-w-3xl h-auto rounded-2xl shadow-lg"
           />
